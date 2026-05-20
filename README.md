@@ -2,7 +2,7 @@
 
 A production-grade Retrieval Augmented Generation (RAG) system and LangGraph agent built over all 10 seasons of Friends scripts (228 episodes, 3,256 scenes).
 
-**Note:** This was built as a structured learning project to transition into Applied AI Engineering. The goal was to understand RAG failure modes, measure quality with real evals, and build production-adjacent tooling — not to ship a product.
+> **Note:** This was built as a structured learning project to transition into Applied AI Engineering. The goal was to understand RAG failure modes, measure quality with real evals, and build production-adjacent tooling — not to ship a product.
 
 Ask natural language questions over the complete Friends corpus. Inspect every retrieved scene, similarity score, and agent reasoning step through a React debug UI.
 
