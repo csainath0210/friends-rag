@@ -4,7 +4,7 @@ A production-grade Retrieval Augmented Generation (RAG) system and LangGraph age
 
 Ask natural language questions over the complete Friends corpus. Inspect every retrieved scene, similarity score, and agent reasoning step through a React debug UI.
 
-![RAG Debug UI]()
+![RAG Debug UI](screenshots/Screenshot_1)
 
 ---
 
