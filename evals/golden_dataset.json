@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Was it Phoebe's voice in the Smelly Cat music video?",
+    "ground_truth": "No, the producer replaced Phoebe's voice with a professional singer's voice in the Smelly Cat music video without telling her",
+    "source_episode": "0217"
+  },
+  {
+    "question": "What does Ross call the special layer in his Thanksgiving sandwich?",
+    "ground_truth": "The Moist Maker, an extra slice of gravy soaked bread in the middle",
+    "source_episode": "0509"
+  },
+  {
+    "question": "What happens when someone eats Ross's sandwich at work?",
+    "ground_truth": "Ross gets very angry and threatens his boss Dr. Leedbetter who ate it by mistake",
+    "source_episode": "0509"
+  },
+  {
+    "question": "What does Joey say when he does not want to share his food?",
+    "ground_truth": "Joey does not share food",
+    "source_episode": "0520"
+  },
+  {
+    "question": "What is the name of Joey's character on Days of Our Lives?",
+    "ground_truth": "Dr. Drake Remoray",
+    "source_episode": "0219"
+  },
+  {
+    "question": "Who was Chandler trapped with in the ATM vestibule?",
+    "ground_truth": "Jill Goodacre",
+    "source_episode": "0107"
+  },
+  {
+    "question": "What is Monica's profession?",
+    "ground_truth": "Monica is a chef",
+    "source_episode": "0101"
+  },
+  {
+    "question": "What subject does Ross teach at the university?",
+    "ground_truth": "Paleontology",
+    "source_episode": "0101"
+  },
+  {
+    "question": "What phrase does Joey use to flirt with women?",
+    "ground_truth": "How you doin",
+    "source_episode": "0412"
+  },
+  {
+    "question": "What is the name of Ross and Rachel's baby?",
+    "ground_truth": "Emma",
+    "source_episode": "0824"
+  },
+  {
+    "question": "What animal does Phoebe believe her mother reincarnated into?",
+    "ground_truth": "A cat",
+    "source_episode": "0402"
+  },
+  {
+    "question": "What is the name of Chandler and Joey's chick?",
+    "ground_truth": "Yasmine",
+    "source_episode": "0321"
+  },
+  {
+    "question": "What does Ross say repeatedly during his divorce from Emily?",
+    "ground_truth": "We were on a break",
+    "source_episode": "0315"
+  },
+  {
+    "question": "What is the name of the coffee shop where the friends hang out?",
+    "ground_truth": "Central Perk",
+    "source_episode": "0101"
+  },
+{
+    "question": "What does Monica shout when she proposes to Chandler?",
+    "ground_truth": "I thought that it mattered what I said or where I said it. Then I realized the only thing that matters is that you, that you make me happier than I ever thought I could be. And if you let me I will spend the rest of my life trying to make you feel the same way. Chandler Bing, will you marry me?",
+    "source_episode": "0624"
+  }
+]
